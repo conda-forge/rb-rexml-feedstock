@@ -148,4 +148,6 @@ Feedstock Maintainers
 =====================
 
 * [@ajaypnair09](https://github.com/ajaypnair09/)
+* [@jdmarques](https://github.com/jdmarques/)
+* [@rudispr](https://github.com/rudispr/)
 
