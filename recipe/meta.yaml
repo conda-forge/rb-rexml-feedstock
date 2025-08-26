@@ -1,5 +1,5 @@
 {% set name = "rexml" %}
-{% set version = "3.3.7" %}
+{% set version = "3.4.2" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-    sha256: 62a3a4d288ace18830ad6ca8aba845037d231c4f8cb481ba270ca1b75b605027
+    sha256: 1384268554a37af5da5279431ca3f2f37d46f09ffdd6c95e17cc84c83ea7c417
 
 build:
   noarch: generic
